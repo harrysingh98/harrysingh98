@@ -4,7 +4,7 @@
 
 - <b>Defensive Security:</b>
   - [Active Directory Home Lab](https://github.com/harrysingh98/ActiveDirectoryLab.git)
-  - [SIEM Lab Using Splunk]()
+  - [Windows Server Log Monitoring Using Splunk](https://github.com/harrysingh98/LogMonitoring_Splunk.git)
     
 - <b>Offensive Security:</b>
   - [Coming Soon...]()
