@@ -7,7 +7,7 @@
   - [Windows Server Log Monitoring Using Splunk](https://github.com/harrysingh98/LogMonitoring_Splunk.git)
     
 - <b>Offensive Security:</b>
-  - [Coming Soon...]()
+  - [Penetration Test Report](https://github.com/harrysingh98/RekallPenTestReport)
 
 <h2>📜 Certifications</h2>
 
