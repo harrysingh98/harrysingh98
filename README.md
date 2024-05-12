@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Defensive Security:</b>
-  - [SIEM Lab / Windows Server Log Monitoring Using Splunk](https://github.com/harrysingh98/LogMonitoring_Splunk)
+  - [SIEM Lab | Windows Server Log Monitoring Using Splunk](https://github.com/harrysingh98/LogMonitoring_Splunk)
   - [Cloud Infrastructure Documentation: Comprehensive Network Diagram](https://github.com/harrysingh98/CloudInfrastructureLayout)
     
 - <b>Offensive Security:</b>
